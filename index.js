@@ -20,7 +20,13 @@ if (string === ) {
   return 
 }
 
-  
+else if (string === ){
+  return 
+}
+
+else if (string === "I love you, Grandma.") {
+  return 
+}
   
   
 }
