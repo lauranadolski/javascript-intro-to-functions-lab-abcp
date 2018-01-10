@@ -17,13 +17,17 @@ function logWhisper(string) {
 function sayHiToGrandma(string) {
   
 if (string === 
-string.toUpperCase()
+string.toLowerCase()
 
 ) {
   return 
 }
 
-else if (string === ){
+else if (string ===
+
+string.toUpperCase()
+
+){
   return 
 }
 
